@@ -1,4 +1,5 @@
 # BeReal Recap 202x
+![Image](bereal-cover/cover.png)
 ## Description
 
 Python script to generate a music-driven timelapse from your collection of BeReal photos.
@@ -12,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## bereal-cover
-- In the bereal-cover folder you can find the bereal-lookalike template I designed with gimp for the cover of the video. You can edit it with your own username and year of choice and export it as a `png file`.
+- In the bereal-cover folder you can find the bereal-lookalike template I designed with gimp for the intro and outro of the video. You can edit it with your own username and year of choice and export it as a `png file`.
 - The installation of the font [Inter](https://fonts.google.com/specimen/Inter?preview.text=BeReal) is recommended to resemble the app's presentation. 
 
 ## Usage
