@@ -60,3 +60,8 @@ It does however contain links to third party software which may not be following
 
 Features under todo in contributing are not yet implemented and are not to be taken as future milestones of this repository as this as of now remains a psrsonal project to create a timelapse.
 I hereby do not take responsibility for any forks of this project which may implement those features as this software is meant to be freely distributed.
+
+## Support me
+
+<a href="https://paypal.me/frncscgnvs/"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" height="40"></a>  
+If you enjoyed this project — or just feeling generous, consider buying me a beer. Cheers
