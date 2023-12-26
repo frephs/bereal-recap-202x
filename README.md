@@ -25,7 +25,7 @@ At the time of development, the latest version of python on which the script wor
 Go to [toofake.lol](https://toofake.lol/) and log in with your account. then export all of your photos in the default format (back and front camera).
 Unpack the zip file and move the photos into the `bereal-export` folder.
 
-**Edit**: just learnt toofake.lol doesn't doenload extra bereals but it could be awesome if it did so feel free to contribute. [toofake repo](https://github.com/s-alad/toofake)
+**Edit**: just learnt toofake.lol doesn't download extra bereals but it could be awesome if it did so go there and contribute. [toofake repo](https://github.com/s-alad/toofake)
 
 ### Photo order
 The berel-export folder is not ordered chronologically and the modification date of the photos is not the creation one but the export one.  
