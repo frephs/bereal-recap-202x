@@ -3,3 +3,4 @@ numpy
 librosa
 moviepy
 tqdm
+pillow

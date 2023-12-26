@@ -13,26 +13,31 @@ The requirements to run this script are listed in the `requirements.txt` file. Y
 pip install -r requirements.txt
 ```
 
-## bereal-cover
-- In the bereal-cover folder you can find the bereal-lookalike template I designed with gimp for the intro and outro of the video. You can edit it with your own username and year of choice and export it as a `png file`.
-- The installation of the font [Inter](https://fonts.google.com/specimen/Inter?preview.text=BeReal) is recommended to resemble the app's presentation. 
-
 ## Usage
 At the time of development, the latest version of python on which the script works is 3.11 because of compatibility issues of the `librosa` module.
 
-### How to export the photos
+### 1. Generate bereal cover
+In the `bereal-cover` folder you can find the bereal-lookalike template which is added as intro and outro of your recap
+To generate your bereal cover run this line and enter your username. 
+`python generate-cover.py`
+
+### 2. How to export the photos
 Go to [toofake.lol](https://toofake.lol/) and log in with your account. then export all of your photos in the default format (back and front camera).
 Unpack the zip file and move the photos into the `bereal-export` folder.
 
-### Photo order
-The berel-export folder is not ordered chronologically and the modification date of the photos is not the creation one but the export one.  
-If you want the recap to be chronological you can run the python script `fix-datetimes.py` using the following command:
-
+### 3. Photo order
+The berel-export folder is not going to be ordered chronologically and the modification date of the photos is not going to be the creation one but the export one.  
+In order for the recap be chronological you can run the python script `fix-datetimes.py` using the following command:
 ```bash
 cd bereal-export/
 python ../fix-datetimes.py
 ```
 
+### 4. Generate your timelapse
+Finally:
+```bash
+python generate-bereal-recap.py
+```
 
 ### Reccomendations
 I recommend using a song with a crescendo in the middle, so that the video is more interesting and to choose a song lenght so that there is a ratio of no more than 360 photos per minute of music approximately.
