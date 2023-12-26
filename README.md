@@ -23,13 +23,13 @@ In the `bereal-cover` folder you can find the bereal-lookalike template which is
 To generate your bereal cover run this line and enter your username. 
 `python generate-cover.py`
 
-### 2. How to export the photos
+### 2. Export your memories
 Go to [toofake.lol](https://toofake.lol/) and log in with your account. then export all of your photos in the default format (back and front camera).
 Unpack the zip file and move the photos into the `bereal-export` folder.
 
 **Edit**: just learnt toofake.lol doesn't download extra bereals but it could be awesome if it did so go there and contribute. [toofake repo](https://github.com/s-alad/toofake)
 
-### 3. Photo order
+### 3. Oder your photos [optional]
 The berel-export folder is not going to be ordered chronologically and the modification date of the photos is not going to be the creation one but the export one.  
 If you want the recap to be chronological you can run the python script `fix-datetimes.py` using the following command:
 
