@@ -2,7 +2,7 @@
 <img src="bereal-cover/cover.png" height="300px">
 
 ## Description
-[Disclaimer here](#disclaimer)
+<a href='#disclaimer'>Disclaimer here</a>
 
 Python script to generate a music-driven timelapse from your collection of BeReal photos.
 The script functions by quantizing your chosen music across three levels to put together a sequence of the photos that carousels at varying speeds in accordance with the audio's level and the duration of the music. Keep in mind that the MP3 file you select will be played from start to finish, influencing the overall length of the generated video.
@@ -49,7 +49,9 @@ Feel free to contribute. here's a list of features that would be cool to impleme
 
 <h2 id='disclaimer'>Disclaimer</h2>
 This repository does not contain any BeReal intellectual property nor it violates the terms of service as 
+
 1. The BeReal name is used following the company guidelines on brand identity usage
+
 2. the software in this repository provides through a service the company does not provide anymore, locally.
 
 All the graphics available in the repo are made with FOSS software and fonts available on the internet under the OFL (open font license). 
