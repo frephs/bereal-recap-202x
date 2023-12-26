@@ -2,7 +2,7 @@
 <img src="bereal-cover/cover.png" height="300px">
 
 ## Description
-<a href='#disclaimer'>Disclaimer here</a>
+[Disclaimer here](#disclaimer)
 
 Python script to generate a music-driven timelapse from your collection of BeReal photos.
 The script functions by quantizing your chosen music across three levels to put together a sequence of the photos that carousels at varying speeds in accordance with the audio's level and the duration of the music. Keep in mind that the MP3 file you select will be played from start to finish, influencing the overall length of the generated video.
