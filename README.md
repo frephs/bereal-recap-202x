@@ -49,5 +49,5 @@ Feel free to contribute. here's a list of features that would be cool to impleme
 ## Disclaimer
 This repository does not contain any BeReal intellectual property nor it violates the terms of service as the BeReal name is used following the company guidelines on brand identity usage. All the graphics available in the repo are made with FOSS software and fonts available on the internet under the OFL (open font license). 
 
-It does however contain links to third party software which may not be following the company guidelines those links can and will be removed if the company or the 3rd party software developer submit a request [here](mailti:ffrancescogenovese+bereal@gmail.com).
+It does however contain links to third party software which may not be following the company guidelines those links can and will be removed if the company or the 3rd party software developer submit a request [here](mailto:ffrancescogenovese+bereal@gmail.com).
 
