@@ -47,7 +47,7 @@ Feel free to contribute. here's a list of features that would be cool to impleme
 - [ ] Script to edit the cover template automatically 
 - [ ] Integrated web-app solution
 
-## Disclaimer <a name="disclaimer"></a>
+## <a name="disclaimer">Disclaimer </a>
 This repository does not contain any BeReal intellectual property nor it violates the terms of service as 
 
 1. The BeReal name is used following the company guidelines on brand identity usage
