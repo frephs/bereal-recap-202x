@@ -52,11 +52,11 @@ This repository does not contain any BeReal intellectual property nor it violate
 
 1. The BeReal name is used following the company guidelines on brand identity usage
 
-2. the software in this repository provides through a service the company does not provide anymore, locally.
+2. the software in this repository provides through a service the company does not provide anymore, locally and without charge.
 
 All the graphics available in the repo are made with FOSS software and fonts available on the internet under the OFL (open font license). 
 
-It does however contain links to third party software which may not be following the company guidelines those links can and will be removed if the company or the 3rd party software developer submit a request [here](mailto:ffrancescogenovese+bereal@gmail.com).
+It does however contain links to third party software which may not be following the company guidelines: those links can and will be removed if the company or the 3rd party software developer submit a request [here](mailto:ffrancescogenovese+bereal@gmail.com).
 
 Features under todo in contributing are not yet implemented and are not to be taken as future milestones of this repository as this as of now remains a psrsonal project to create a timelapse.
-
+I hereby do not take responsibility for any forks of this project which may implement those features as this software is meant to be freely distributed.
