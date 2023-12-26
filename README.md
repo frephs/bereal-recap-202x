@@ -1,5 +1,6 @@
 # BeReal Recap 202x
-![Image](bereal-cover/cover.png)
+<img src="bereal-cover/cover.png" height="300px">
+
 ## Description
 
 Python script to generate a music-driven timelapse from your collection of BeReal photos.
