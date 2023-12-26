@@ -24,6 +24,8 @@ At the time of development, the latest version of python on which the script wor
 Go to [toofake.lol](https://toofake.lol/) and log in with your account. then export all of your photos in the default format (back and front camera).
 Unpack the zip file and move the photos into the `bereal-export` folder.
 
+**Edit**: just learnt toofake.lol doesn't doenload extra bereals but it could be awesome if it did so feel free to contribute. [toofake repo](https://github.com/s-alad/toofake)
+
 ### Photo order
 The berel-export folder is not ordered chronologically and the modification date of the photos is not the creation one but the export one.  
 If you want the recap to be chronological you can run the python script `fix-datetimes.py` using the following command:
@@ -36,3 +38,10 @@ python ../fix-datetimes.py
 
 ### Reccomendations
 I recommend using a song with a crescendo in the middle, so that the video is more interesting and to choose a song lenght so that there is a ratio of no more than 360 photos per minute of music approximately.
+
+## Contribute
+Feel free to contribute. here's a list of features that would be cool to implement
+- [ ] Connection to BeReal exposed api 
+- [ ] Contribute to toofake for the download of extra bereals
+- [ ] Script to edit the cover template automatically 
+- [ ] Integrated web-app solution
