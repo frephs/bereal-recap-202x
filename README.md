@@ -48,7 +48,6 @@ Feel free to contribute. here's a list of features that would be cool to impleme
 - [ ] Integrated web-app solution
 
 <h2 id='disclaimer'>Disclaimer</h2>
-<hr>
 This repository does not contain any BeReal intellectual property nor it violates the terms of service as the BeReal name is used following the company guidelines on brand identity usage and provides through software a service the company does not provide locally.
 
 All the graphics available in the repo are made with FOSS software and fonts available on the internet under the OFL (open font license). 
