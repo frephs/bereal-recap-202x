@@ -18,7 +18,8 @@ pip install -r requirements.txt
 At the time of development, the latest version of python on which the script works is 3.11 because of compatibility issues of the `librosa` module.
 
 ### 1. Generate bereal cover
-In the `bereal-cover` folder you can find the bereal-lookalike template which is added as intro and outro of your recap
+In the `bereal-cover` folder you can find the bereal-lookalike template which is added as intro and outro of your recap.
+
 To generate your bereal cover run this line and enter your username. 
 `python generate-cover.py`
 
@@ -50,7 +51,7 @@ I recommend using a song with a crescendo in the middle, so that the video is mo
 Feel free to contribute. here's a list of features that would be cool to implement
 - [ ] Connection to BeReal exposed api 
 - [ ] Contribute to toofake for the download of extra bereals
-- [ ] Script to edit the cover template automatically 
+- [x] Script to edit the cover template automatically 
 - [ ] Integrated web-app solution
 
 ## <a id='disclaimer' name="disclaimer">Disclaimer </a>
