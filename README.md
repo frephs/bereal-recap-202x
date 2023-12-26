@@ -52,7 +52,7 @@ This repository does not contain any BeReal intellectual property nor it violate
 
 1. The BeReal name is used following the company guidelines on brand identity usage
 
-2. the software in this repository provides through a service the company does not provide anymore, locally and without charge.
+2. the software in this repository provides through a script a service the company does not provide anymore, locally and without charge.
 
 All the graphics available in the repo are made with FOSS software and fonts available on the internet under the OFL (open font license). 
 
