@@ -35,4 +35,4 @@ python ../fix-datetimes.py
 
 
 ### Reccomendations
-I recommend using a song with a crescendo in the middle, so that the video is more interesting and to choose a song lenght so that ratio of no more than 360 photos per minute of music approximately.
+I recommend using a song with a crescendo in the middle, so that the video is more interesting and to choose a song lenght so that there is a ratio of no more than 360 photos per minute of music approximately.
