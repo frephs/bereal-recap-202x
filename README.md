@@ -21,7 +21,9 @@ At the time of development, the latest version of python on which the script wor
 In the `bereal-cover` folder you can find the bereal-lookalike template which is added as intro and outro of your recap.
 
 To generate your bereal cover run this line and enter your username. 
-`python generate-cover.py`
+```bash
+python generate-cover.py
+```
 
 ### 2. Export your memories
 Go to [toofake.lol](https://toofake.lol/) and log in with your account. then export all of your photos in the default format (back and front camera).
