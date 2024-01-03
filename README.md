@@ -14,8 +14,8 @@ The requirements to run this script are listed in the `requirements.txt` file. Y
 pip install -r requirements.txt
 ```
 
+At the time of development, the latest version of python on which the script works is `python version 3.11` because of compatibility issues of the `librosa` module.
 ## Usage
-At the time of development, the latest version of python on which the script works is 3.11 because of compatibility issues of the `librosa` module.
 
 ### 1. Generate bereal cover
 In the `bereal-cover` folder you can find the bereal-lookalike template which is added as intro and outro of your recap.
